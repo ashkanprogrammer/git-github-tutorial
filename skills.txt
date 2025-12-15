@@ -1,0 +1,5 @@
+1 - focus on learning machine learning
+2 - learn javascript for developing web
+3 - able to write code in C++, Pyton and C language
+4 - able to design site using html/css
+5 - able to create game with pygame in python and work with graphic.h in C++
